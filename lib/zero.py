@@ -1,2 +1,2 @@
 def zero():
-    return 0
+    retutn 0
